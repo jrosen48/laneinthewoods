@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1567469426234.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "CF803FCF",
+    "lastKnownWriteTime" : 1567469490,
+    "last_content_update" : 1567469490298,
+    "path" : "~/laneinthewoods/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "45,21",
+        "scrollLine" : "35"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
