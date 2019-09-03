@@ -1,5 +1,5 @@
 title = "Lane in the Woods"
-baseURL = "https://laneinthewoods.com"
+baseURL = "http://laneinthewoods.com/"
 languageCode = "en-us"
 theme = "airspace-hugo"
 
